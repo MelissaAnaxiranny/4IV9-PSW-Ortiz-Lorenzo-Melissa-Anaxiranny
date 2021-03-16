@@ -24,7 +24,7 @@ nav,article,aside,footer{
 
 }
 nav,article,aside,footer{
-    width: 40%;
+    width: 30%;
     display:inline-block;
     height: 300px;
     background-color: #ffc6ff
