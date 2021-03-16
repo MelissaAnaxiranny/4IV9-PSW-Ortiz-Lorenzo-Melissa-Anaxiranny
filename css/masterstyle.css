@@ -4,7 +4,7 @@
     text-align: center;   
 }
 html,body{
-    background-image: url(Esesa.jpg);
+    background-color:#cb997e
     background-size: 100%;
 }
 {
@@ -37,7 +37,7 @@ section{
     margin: 1rem;
     border-radius: 10px;
     padding: 1rem;
-    height: 980px;
+
     background-color: #ffadad
 }
 blockquote{
