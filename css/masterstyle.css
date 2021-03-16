@@ -7,3 +7,26 @@ html,body{
     background-image: url(Esesa.jpg);
     background-size: 100%;
 }
+{
+    .main-container{
+        border: 10px solid rgb(0, 0, 0);
+        border-radius: 10;
+        margin: 2rem;
+        background-color: #fae1dd
+
+    }
+}
+nav,article,aside,footer{
+    border: 10px solid rgb(0, 0, 0);
+    margin: 1rem;
+    border-radius: 10px;
+    padding: 3rem;
+
+}
+nav,article,aside,footer{
+    width: 25%;
+    display:inline-block;
+    height: 300px;
+    background-color: #ffc6ff
+
+}
